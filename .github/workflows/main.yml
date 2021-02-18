@@ -15,5 +15,5 @@ jobs:
                   server: ftp.site4now.net
                   username: filipecavalcante-001
                   password: Rzr7qX6dnjuWeNL
-                  local-dir: ../../dist/
+                  local-dir: ./dist/
                   server-dir: ./resume/resume/
