@@ -14,7 +14,7 @@ jobs:
               with:
                   server: 66.186.19.254
                   port: 21
-                  username: filipecavalcante-001
-                  password: Rzr7qX6dnjuWeNL
+                  username: github-deploy
+                  password: ${{secrets.smartaspftp}}
                   local-dir: ./dist/
-                  server-dir: ./resume/resume/
+                  server-dir: ./
