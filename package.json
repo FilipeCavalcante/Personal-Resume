@@ -1,5 +1,5 @@
 {
-    "title": "Resume",
+    "title": "Filipe C. Cavalcante Profile",
     "name": "startbootstrap-resume",
     "version": "6.0.2",
     "scripts": {
@@ -12,20 +12,21 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Resume/Profile of Filipe de Campos Cavalcante",
     "keywords": [
         "css",
         "sass",
         "html",
         "responsive",
         "theme",
-        "template"
+        "template",
+        "aspnetcore",
+        "aspnet",
+        "microsoft",
+        "microsoft Sharepoint",
+        "angular",
+        "typescript"
     ],
-    "homepage": "https://startbootstrap.com/theme/resume",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
