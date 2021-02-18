@@ -29,13 +29,6 @@
     ],
     "license": "MIT",
     "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (https://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
-    },
     "dependencies": {
         "bootstrap": "4.5.3"
     },
