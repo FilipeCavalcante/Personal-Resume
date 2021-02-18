@@ -12,7 +12,8 @@ jobs:
             - name: 📂 Sync files
               uses: SamKirkland/FTP-Deploy-Action@4.0.0
               with:
-                  server: ftp.site4now.net
+                  server: 66.186.19.241
+                  port: 21
                   username: filipecavalcante-001
                   password: Rzr7qX6dnjuWeNL
                   local-dir: ./dist/
