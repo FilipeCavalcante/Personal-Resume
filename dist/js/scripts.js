@@ -1,5 +1,5 @@
 /*!
-    * Start Bootstrap - Resume v6.0.2 (https://startbootstrap.com/theme/resume)
+    * Start Bootstrap - Filipe C. Cavalcante Profile v6.0.2 (undefined)
     * Copyright 2013-2021 Start Bootstrap
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
     */
